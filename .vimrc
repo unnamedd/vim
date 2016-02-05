@@ -3,6 +3,7 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 set number
+set encoding=utf-8
 
 " Configure shortcuts to NERDTree
 map <F1> :NERDTreeToggle<CR>
